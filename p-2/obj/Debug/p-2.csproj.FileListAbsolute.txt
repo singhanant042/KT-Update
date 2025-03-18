@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\p-2\bin\Debug\p-2.exe.config
+C:\Users\sinanant\C#\p-2\bin\Debug\p-2.exe
+C:\Users\sinanant\C#\p-2\bin\Debug\p-2.pdb
+C:\Users\sinanant\C#\p-2\obj\Debug\p-2.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\p-2\obj\Debug\p-2.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\p-2\obj\Debug\p-2.exe
+C:\Users\sinanant\C#\p-2\obj\Debug\p-2.pdb

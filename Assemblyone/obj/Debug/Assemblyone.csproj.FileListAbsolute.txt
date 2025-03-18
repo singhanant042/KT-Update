@@ -1,0 +1,6 @@
+C:\Users\sinanant\C#\Assemblyone\bin\Debug\Assemblyone.dll
+C:\Users\sinanant\C#\Assemblyone\bin\Debug\Assemblyone.pdb
+C:\Users\sinanant\C#\Assemblyone\obj\Debug\Assemblyone.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\Assemblyone\obj\Debug\Assemblyone.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\Assemblyone\obj\Debug\Assemblyone.dll
+C:\Users\sinanant\C#\Assemblyone\obj\Debug\Assemblyone.pdb

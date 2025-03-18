@@ -1,0 +1,6 @@
+C:\Users\sinanant\C#\Assemblytwo\bin\Debug\Assemblytwo.dll
+C:\Users\sinanant\C#\Assemblytwo\bin\Debug\Assemblytwo.pdb
+C:\Users\sinanant\C#\Assemblytwo\obj\Debug\Assemblytwo.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\Assemblytwo\obj\Debug\Assemblytwo.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\Assemblytwo\obj\Debug\Assemblytwo.dll
+C:\Users\sinanant\C#\Assemblytwo\obj\Debug\Assemblytwo.pdb

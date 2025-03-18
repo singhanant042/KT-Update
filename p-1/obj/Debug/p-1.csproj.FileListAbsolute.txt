@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\p-1\bin\Debug\p-1.exe.config
+C:\Users\sinanant\C#\p-1\bin\Debug\p-1.exe
+C:\Users\sinanant\C#\p-1\bin\Debug\p-1.pdb
+C:\Users\sinanant\C#\p-1\obj\Debug\p-1.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\p-1\obj\Debug\p-1.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\p-1\obj\Debug\p-1.exe
+C:\Users\sinanant\C#\p-1\obj\Debug\p-1.pdb
